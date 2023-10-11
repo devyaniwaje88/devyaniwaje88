@@ -5,12 +5,24 @@
 Greetings! I'm Devyani Waje, a dedicated Machine Learning Engineer with a passion for unraveling the mysteries hidden within data. My journey involves translating algorithms into actionable insights and building intelligent systems that learn and adapt.
 
 💼 Expertise
+
+
 🧠 Deep Learning Architectures
+
+
 📉 Data Modeling and Analysis
+
+
 🤖 Natural Language Processing
+
+
 📊 Predictive Analytics
-🚀 Model Deployment and Optimization
+
 
 🔧 Tech Toolbox
+
+
 🐍 Python | 📦 TensorFlow | 🔥 PyTorch 
+
+
 📉 Pandas | 📊 Matplotlib | 📈 Seaborn | 📓 Jupyter
