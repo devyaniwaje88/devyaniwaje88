@@ -26,3 +26,5 @@ Greetings! I'm Devyani Waje, a dedicated Machine Learning Engineer with a passio
 
 
 📉 Pandas | 📊 Matplotlib | 📈 Seaborn | 📓 Jupyter
+
+📊 PowerBI | 📈 Tableau
