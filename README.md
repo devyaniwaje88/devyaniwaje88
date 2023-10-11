@@ -1,4 +1,5 @@
-                                                        <h1 style="font-size: 24px;">👋 Hello! Welcome to my GitHub profile!</h1>
+                                                        # 👋 Hello! Welcome to my GitHub profile!
+
 
                                                             
 🤖 Machine Learning Engineer | 📊 Data Science Enthusiast 
